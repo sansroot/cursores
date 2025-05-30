@@ -1,12 +1,11 @@
 #!/bin/bash
 
-# Arquivo original que você quer copiar
 ARQUIVO_ORIGINAL="./hypr-dots-yellow/cursors/yellow"
 
-# Diretório onde criar as cópias
+
 DIRETORIO_DESTINO="./hypr-dots-yellow/cursors/"
 
-# Lista de nomes (coloque exatamente os nomes que você me passou, um por linha)
+
 nomes=(
 "00000000000000020006000e7e9ffc3f"
 "00008160000006810000408080010102"
